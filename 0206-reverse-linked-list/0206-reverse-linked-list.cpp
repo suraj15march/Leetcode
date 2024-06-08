@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* prev = NULL;
         ListNode* cur = head;
+        ListNode* prev = nullptr;
         ListNode* nxt = head;
         while(cur!=nullptr){
             nxt = cur->next;
