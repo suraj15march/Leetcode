@@ -18,10 +18,10 @@ public:
         q.push(root);
         while(!q.empty()){
             int n = q.size();
-            for(int i=0;i<n;i++){
+            while(n--){
                 TreeNode* temp = q.front();
                 q.pop();
-                if(i==n-1) ans.push_back(temp->val);
+                if(n==0) ans.push_back(temp->val);
                 if(temp->left) q.push(temp->left);
                 if(temp->right) q.push(temp->right);
             }
