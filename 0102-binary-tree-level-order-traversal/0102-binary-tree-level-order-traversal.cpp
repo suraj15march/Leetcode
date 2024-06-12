@@ -19,7 +19,7 @@ public:
         while(!q.empty()){
             vector<int>v;
             int m = q.size();
-            for(int i=0;i<m;i++){
+            while(m--){
                 TreeNode* temp = q.front();
                 v.push_back(temp->val);
                 q.pop();
