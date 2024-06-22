@@ -16,8 +16,8 @@ public:
         int l = solve(root->left, res);
         int r = solve(root->right, res);
         int temp = max(root->val, root->val + max(l,r));
-        int ans = max(temp, l+r+root->val);
-        res = max(res,ans);
+        res = max(res, max(temp, l+r+root->val));
+        // res = max(res,ans);
         return temp;
     }
     int maxPathSum(TreeNode* root) {
