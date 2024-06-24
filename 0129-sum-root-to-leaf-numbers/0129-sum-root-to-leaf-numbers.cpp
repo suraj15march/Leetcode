@@ -19,7 +19,6 @@ public:
         num *= 10;
         num += root->val;
         if(root->left == NULL && root->right == NULL){
-            cout<<num<<endl;
             sum += num;
         }
         solve(root->left, num);
