@@ -10,20 +10,20 @@
  * };
  */
 class Solution {
+    int ans = 0;
 public:
-    void solve(TreeNode* root, int &ans, int max_tree){
+    void solve(TreeNode* root, int max_tree){
         if(!root) return;
         if(root->val >= max_tree){
             ans++;
             max_tree = root->val;
         }
-        solve(root->left, ans, max_tree);
-        solve(root->right, ans, max_tree);
+        solve(root->left, max_tree);
+        solve(root->right, max_tree);
     }
     int goodNodes(TreeNode* root) {
-        int ans = 0;
         int max_tree = INT_MIN;
-        solve(root, ans, max_tree);
+        solve(root, max_tree);
         return ans;
     }
 };
