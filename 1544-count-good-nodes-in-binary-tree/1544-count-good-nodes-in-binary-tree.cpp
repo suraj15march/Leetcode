@@ -12,7 +12,7 @@
 class Solution {
 public:
     void solve(TreeNode* root, int &ans, int max_tree){
-        if(root == NULL) return;
+        if(!root) return;
         if(root->val >= max_tree){
             ans++;
             max_tree = root->val;
@@ -21,7 +21,6 @@ public:
         solve(root->right, ans, max_tree);
     }
     int goodNodes(TreeNode* root) {
-        if(root == NULL) return 0;
         int ans = 0;
         int max_tree = INT_MIN;
         solve(root, ans, max_tree);
