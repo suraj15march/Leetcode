@@ -3,7 +3,6 @@ class Solution {
     map<vector<int>, int> mp;
 public:
     void solve(vector<int>nums, vector<int>op){
-        sort(op.begin(), op.end());
         if(nums.empty()){
             if(!mp[op]){
                 mp[op]++;
@@ -19,6 +18,7 @@ public:
         solve(nums, op2);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
         vector<int>op;
         solve(nums, op);
         return ans;
