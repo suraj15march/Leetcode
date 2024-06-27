@@ -23,6 +23,7 @@ public:
         solve(root->right, v, sum, t);
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
+        if(root == NULL) return {};
         solve(root, {}, 0, targetSum);
         return ans;
     }
