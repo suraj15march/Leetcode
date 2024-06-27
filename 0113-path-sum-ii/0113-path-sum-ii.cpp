@@ -18,6 +18,7 @@ public:
         sum += root->val;
         if(root->left == NULL && root->right == NULL){
             if(sum == t)    ans.push_back(v);
+            return;
         }
         solve(root->left, v, sum, t);
         solve(root->right, v, sum, t);
