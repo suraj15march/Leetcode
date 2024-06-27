@@ -19,6 +19,7 @@ public:
         if(root->left == NULL && root->right == NULL){
             s += to_string(root->val);
             ans.push_back(s);
+            return;
         }
         s += to_string(root->val)+"->";
         solve(root->left,s);
