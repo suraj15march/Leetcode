@@ -16,9 +16,11 @@ public:
                 j--;
                 continue;
             }
-            if(s[i++] != s[j--]){
+            if(s[i] != s[j]){
                 return false;
             }
+            i++;
+            j--;
         }
         return true;
     }
