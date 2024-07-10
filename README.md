@@ -20,4 +20,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suraj15march/Leetcode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
