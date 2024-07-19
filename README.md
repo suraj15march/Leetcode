@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
