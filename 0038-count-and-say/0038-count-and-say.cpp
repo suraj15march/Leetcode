@@ -1,7 +1,6 @@
 class Solution {
 public:
     string countNsay(int n, char c){
-        // cout<<n<<" "<<c<<endl;
         return to_string(n)+c;
     }
     string rel(string s){
