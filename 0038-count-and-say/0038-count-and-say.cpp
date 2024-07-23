@@ -20,17 +20,12 @@ public:
             i++;
         }
         ans += countNsay(c,a);
-        // cout<<n<<" "<<c<<endl;
-        // cout<<ans<<endl;
         return ans;
     }
     string countAndSay(int n) {
         vector<string> res(31,"");
         if(n==1) return "1";
-        // cout<<rel[1]<<endl;
-        if(res[n]=="") {
-            res[n] = rel(countAndSay(n-1));
-        }
+        if(res[n]=="") res[n] = rel(countAndSay(n-1));
         return res[n];
     }
 };
