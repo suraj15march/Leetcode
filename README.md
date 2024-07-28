@@ -19,6 +19,7 @@
 | [0038-count-and-say](https://github.com/suraj15march/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/suraj15march/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suraj15march/Leetcode/tree/master/0125-valid-palindrome) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Stack
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
