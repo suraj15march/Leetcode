@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/suraj15march/Leetcode/tree/master/0007-reverse-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/suraj15march/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
