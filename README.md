@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suraj15march/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
@@ -76,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suraj15march/Leetcode/tree/master/0001-two-sum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
