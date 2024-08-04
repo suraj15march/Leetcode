@@ -83,4 +83,8 @@
 |  |
 | ------- |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/suraj15march/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
