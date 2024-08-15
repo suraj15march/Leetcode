@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         vector<int> ans;
-        long product = 0;
+        long product = 1;
         int index;
         int isZero = 0;
         for(int i=0; i<nums.size();i++){
@@ -12,7 +12,7 @@ public:
                 isZero++;
                 continue;
             }
-            else if(product == 0) product=1;
+            // else if(product == 0) product=1;
             product *= nums[i];
         }
         if(isZero>1) return ans;
