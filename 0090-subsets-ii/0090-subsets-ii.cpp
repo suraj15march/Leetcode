@@ -1,26 +1,19 @@
 class Solution {
-    vector<vector<int>>ans;
-    map<vector<int>, int> mp;
 public:
-    void solve(vector<int>nums, vector<int>op){
-        if(nums.empty()){
-            if(!mp[op]){
-                mp[op]++;
-                ans.push_back(op);
-            }
-            return;
+    void backtrack(vector<vector<int>>&ans, vector<int>list, vector<int>& nums, int index){
+        ans.push_back(list);
+        for(int i=index;i<nums.size();i++){
+            if (i > index && nums[i] == nums[i - 1]) continue;
+            list.push_back(nums[i]);
+            backtrack(ans, list, nums, i+1);
+            list.pop_back();
         }
-        vector<int>op1 = op;
-        vector<int>op2 = op;
-        op2.push_back(nums[0]);
-        nums.erase(nums.begin()+0);
-        solve(nums, op1);
-        solve(nums, op2);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        vector<vector<int>>ans;
+        vector<int> list;
         sort(nums.begin(),nums.end());
-        vector<int>op;
-        solve(nums, op);
+        backtrack(ans, list, nums, 0);        
         return ans;
     }
 };
