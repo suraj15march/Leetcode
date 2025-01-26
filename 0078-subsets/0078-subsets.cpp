@@ -1,21 +1,20 @@
 class Solution {
-    vector<vector<int>>ans;
 public:
-    void solve(vector<int>op,vector<int>nums){
-        if(nums.empty()){
-            ans.push_back(op);
-            return;
+    void backtrack(vector<vector<int>>&ans, vector<int>& nums, int start, vector<int>&list){
+        // if(start>list.size()){
+            ans.push_back(list);
+            // return;
+        // }
+        for(int i=start;i<nums.size();i++){
+            list.push_back(nums[i]);
+            backtrack(ans,nums,i+1,list);
+            list.pop_back();
         }
-        vector<int>op1 = op;
-        vector<int>op2 = op;
-        op2.push_back(nums[nums.size()-1]);
-        nums.pop_back();
-        solve(op1,nums);
-        solve(op2,nums);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int>op;
-        solve(op,nums);
+        vector<vector<int>>ans;
+        vector<int>list;
+        backtrack(ans,nums,0,list);
         return ans;
     }
 };
