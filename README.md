@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/suraj15march/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/suraj15march/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
@@ -129,4 +130,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suraj15march/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/suraj15march/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
