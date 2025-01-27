@@ -7,8 +7,7 @@ public:
         }
         for(int i=index; i<=n; i++){
             list.push_back(i);
-            backtrack(ans, list, n, k, index+1);
-            index++;
+            backtrack(ans, list, n, k, i+1);
             list.pop_back();
         }
     }
