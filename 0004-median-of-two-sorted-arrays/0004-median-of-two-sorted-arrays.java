@@ -22,6 +22,6 @@ class Solution {
         }
         if((m+n)%2==1)
             return nums.get((m+n)/2);
-        return (float)(nums.get((m+n)/2)+nums.get((m+n)/2-1))/2;
+        return (nums.get((m+n)/2)+nums.get((m+n)/2-1))/2.0;
     }
 }
