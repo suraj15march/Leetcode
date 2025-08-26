@@ -66,6 +66,7 @@
 | [2058-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/suraj15march/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/suraj15march/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Breadth-First Search
 |  |
 | ------- |
