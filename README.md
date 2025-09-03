@@ -84,6 +84,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -191,4 +192,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
