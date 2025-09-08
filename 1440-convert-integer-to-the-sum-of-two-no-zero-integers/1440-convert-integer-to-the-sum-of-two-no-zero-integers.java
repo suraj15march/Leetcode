@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkDecimal(int n){
-        String s = Integer.toString(n);
+        String s = String.valueOf(n);
         for(int i=0; i<s.length(); i++){
             if(s.charAt(i) == '0') return false;
         }
