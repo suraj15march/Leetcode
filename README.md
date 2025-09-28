@@ -54,6 +54,7 @@
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/suraj15march/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suraj15march/Leetcode/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/suraj15march/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/suraj15march/Leetcode/tree/master/0213-house-robber-ii) |
@@ -121,6 +122,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suraj15march/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/suraj15march/Leetcode/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -145,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/suraj15march/Leetcode/tree/master/0274-h-index) |
@@ -158,6 +161,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -189,6 +193,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj15march/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 ## Counting Sort
 |  |
 | ------- |
