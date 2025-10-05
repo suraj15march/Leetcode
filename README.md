@@ -33,6 +33,7 @@
 | [0022-generate-parentheses](https://github.com/suraj15march/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/suraj15march/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/suraj15march/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suraj15march/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -58,6 +59,7 @@
 | [0041-first-missing-positive](https://github.com/suraj15march/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/suraj15march/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suraj15march/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/suraj15march/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suraj15march/Leetcode/tree/master/0090-subsets-ii) |
@@ -133,6 +135,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suraj15march/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/suraj15march/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/suraj15march/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
@@ -158,6 +161,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
