@@ -80,6 +80,7 @@
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1929-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/suraj15march/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -123,6 +124,7 @@
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/suraj15march/Leetcode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/suraj15march/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
