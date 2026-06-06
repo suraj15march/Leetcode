@@ -6,18 +6,18 @@ class Solution {
     }
     public void sortColors(int[] nums) {
         int n = nums.length;
-        int zero = 0, i = 0, two = n-1;
-        while(i<=two){
-            if(nums[i] == 0){
-                swap(nums, i, zero);
+        int zero = 0, one = 0, two = n-1;
+        while(one<=two){
+            if(nums[one] == 0){
+                swap(nums, one, zero);
                 zero++;
-                i++;
+                one++;
             }
-            else if(nums[i] == 1){
-                i++;
+            else if(nums[one] == 1){
+                one++;
             }
             else {
-                swap(nums, i,two);
+                swap(nums, one,two);
                 two--;
             }
         }
