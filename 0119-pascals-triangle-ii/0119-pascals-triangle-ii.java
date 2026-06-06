@@ -5,11 +5,7 @@ class Solution {
             List<Integer> temp = new ArrayList<>();
             for(int j=0; j<=i; j++){
                 if(j==0 || j==i) temp.add(1);
-                else{
-                    // if(i>0 && j>0){
-                        temp.add(result.get(j-1) + result.get(j));
-                    // }
-                }
+                else  temp.add(result.get(j-1) + result.get(j));
             }
             result = temp;
         }
