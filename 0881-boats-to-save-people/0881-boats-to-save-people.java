@@ -5,13 +5,10 @@ class Solution {
         int count=0, sum = 0;
         int i=0, j=n-1;
         while(i<=j){
-            if(people[i]+people[j]>limit){
-                j--;
-            }
-            else{
+            if(people[i]+people[j]<=limit){
                 i++;
-                j--;
             }
+            j--;
             count++;
         }
         return count;
