@@ -45,6 +45,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/suraj15march/Leetcode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -161,6 +162,7 @@
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj15march/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
