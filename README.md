@@ -73,6 +73,7 @@
 | [0046-permutations](https://github.com/suraj15march/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suraj15march/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/suraj15march/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/suraj15march/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/suraj15march/Leetcode/tree/master/0078-subsets) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suraj15march/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/suraj15march/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/suraj15march/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suraj15march/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj15march/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj15march/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/suraj15march/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 ## Counting Sort
 |  |
