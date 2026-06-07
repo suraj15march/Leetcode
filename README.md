@@ -17,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suraj15march/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suraj15march/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/suraj15march/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj15march/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/suraj15march/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suraj15march/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -187,6 +189,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suraj15march/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/suraj15march/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0088-merge-sorted-array) |
