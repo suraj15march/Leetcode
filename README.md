@@ -17,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suraj15march/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/suraj15march/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suraj15march/Leetcode/tree/master/0027-remove-element) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/suraj15march/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj15march/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/suraj15march/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/suraj15march/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suraj15march/Leetcode/tree/master/0027-remove-element) |
@@ -173,6 +175,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suraj15march/Leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Database
