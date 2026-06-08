@@ -7,21 +7,24 @@ class Solution {
                 stack.push(ch);
             else{
                 switch(ch){
-                    case ')':   if(stack.size() !=0 && stack.peek() == '(') {
+                    case ')':   if(stack.size() == 0 || stack.peek() != '(') 
+                                    return false;
+                                else{
                                     stack.pop();
                                     break;
                                 }
-                                else return false;
-                    case '}':   if(stack.size() !=0 && stack.peek() == '{') {
+                    case '}':   if(stack.size() == 0 || stack.peek() != '{') 
+                                    return false;
+                                else{
                                     stack.pop();
                                     break;
                                 }
-                                else return false;
-                    case ']':   if(stack.size() !=0 && stack.peek() == '[') {
+                    case ']':   if(stack.size() == 0 || stack.peek() != '[') 
+                                    return false;
+                                else{
                                     stack.pop();
                                     break;
                                 }
-                                else return false;
                 }
             }
         }
