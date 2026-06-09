@@ -10,12 +10,13 @@ class Solution {
 
             if(!map.containsKey(key))
                 map.put(key, new ArrayList<>());
-                
+
             map.get(key).add(strs[i]);
         }
-        for(List<String> list: map.values()){
-            ans.add(list);
-        }
+        // for(List<String> list: map.values()){
+        //     ans.add(list);
+        // }
+        ans.addAll(map.values());
         return ans;
     }
 }
