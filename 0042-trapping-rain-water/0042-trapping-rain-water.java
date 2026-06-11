@@ -1,7 +1,7 @@
 class Solution {
     public int trap(int[] h) {
-        int i = 1, j = h.length-1;
-        int lMax = h[0], rMax = h[j], water = 0;
+        int i = 0, j = h.length-1;
+        int lMax = 0, rMax = 0, water = 0;
         while(i<=j){
             if(lMax<rMax){
                 lMax = Math.max(lMax,h[i]);
