@@ -98,6 +98,7 @@
 | [0216-combination-sum-iii](https://github.com/suraj15march/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suraj15march/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/suraj15march/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/suraj15march/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/suraj15march/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
@@ -212,6 +213,7 @@
 | [0088-merge-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/suraj15march/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/suraj15march/Leetcode/tree/master/0274-h-index) |
@@ -262,6 +264,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/suraj15march/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/suraj15march/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/suraj15march/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/suraj15march/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -316,4 +319,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/suraj15march/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/suraj15march/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/suraj15march/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
