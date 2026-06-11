@@ -108,6 +108,7 @@
 | [0274-h-index](https://github.com/suraj15march/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/suraj15march/Leetcode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0414-third-maximum-number](https://github.com/suraj15march/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/suraj15march/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/suraj15march/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/suraj15march/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -223,6 +224,7 @@
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/suraj15march/Leetcode/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/suraj15march/Leetcode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
