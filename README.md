@@ -56,6 +56,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2716-minimize-string-length](https://github.com/suraj15march/Leetcode/tree/master/2716-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -118,6 +119,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/suraj15march/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -199,6 +201,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2716-minimize-string-length](https://github.com/suraj15march/Leetcode/tree/master/2716-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
