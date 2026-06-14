@@ -4,7 +4,7 @@ class Solution {
         int minVal = prices[0];
         for(int i=1; i<n; i++){
             result = Integer.max(result, prices[i]-minVal);
-            if(minVal > prices[i]) minVal = prices[i];
+            minVal = Math.min(minVal, prices[i]);
         }
         return result;
     }
