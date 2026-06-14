@@ -119,6 +119,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/suraj15march/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/suraj15march/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
@@ -164,6 +165,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suraj15march/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj15march/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0888-fair-candy-swap](https://github.com/suraj15march/Leetcode/tree/master/0888-fair-candy-swap) |
 ## String Matching
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0888-fair-candy-swap](https://github.com/suraj15march/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2716-minimize-string-length](https://github.com/suraj15march/Leetcode/tree/master/2716-minimize-string-length) |
@@ -238,6 +241,7 @@
 | [0274-h-index](https://github.com/suraj15march/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/suraj15march/Leetcode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/suraj15march/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
