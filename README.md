@@ -134,6 +134,7 @@
 | [1470-shuffle-the-array](https://github.com/suraj15march/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj15march/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -236,6 +237,7 @@
 | [0238-product-of-array-except-self](https://github.com/suraj15march/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj15march/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj15march/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
 | ------- |
