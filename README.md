@@ -92,6 +92,7 @@
 | [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/suraj15march/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/suraj15march/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/suraj15march/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/suraj15march/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/suraj15march/Leetcode/tree/master/0075-sort-colors) |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suraj15march/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/suraj15march/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj15march/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -274,6 +276,7 @@
 | [0022-generate-parentheses](https://github.com/suraj15march/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suraj15march/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/suraj15march/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/suraj15march/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/suraj15march/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suraj15march/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj15march/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
