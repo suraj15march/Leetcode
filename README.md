@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/suraj15march/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/suraj15march/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/suraj15march/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suraj15march/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -174,6 +175,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj15march/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suraj15march/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/suraj15march/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suraj15march/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/suraj15march/Leetcode/tree/master/0704-binary-search) |
