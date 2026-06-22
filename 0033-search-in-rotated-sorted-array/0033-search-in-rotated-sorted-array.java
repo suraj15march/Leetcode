@@ -1,22 +1,26 @@
 class Solution {
-    private int bSearch(int[] nums, int target, int left, int right){
-        int mid = left+(right-left)/2;
-        if(left>right) return -1;
-        if(nums[mid] == target) return mid;
-        else if(nums[mid]>target)
-            return bSearch(nums, target, left, mid-1);
-        return bSearch(nums, target, mid+1, right);
-    }
     public int search(int[] nums, int target) {
-        int n = nums.length;
-        int l = 0, h = n-1;
-        while(l<h){
-            int m = (l+h)/2;
-            if(nums[m]>nums[h]) {
-                l=m+1;
+        int l = 0, h = nums.length-1;
+        while(l<=h){
+            int m = l+(h-l)/2;
+            if(nums[m] == target) return m;
+            if(nums[l]<=nums[m]){
+                if(nums[l]<=target && target<=nums[m]){
+                    h = m-1;
+                }
+                else{
+                    l = m+1;
+                }
             }
-            else h=m;
+            else{
+                if(nums[m]<=target && target<=nums[h]){
+                    l = m+1;
+                }
+                else{
+                    h = m-1;
+                }
+            }
         }
-        return Math.max(bSearch(nums, target, 0, l-1), bSearch(nums, target, l, n-1));
+        return -1;
     }
 }
