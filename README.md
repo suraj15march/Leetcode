@@ -120,6 +120,7 @@
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suraj15march/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/suraj15march/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/suraj15march/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/suraj15march/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
@@ -227,6 +228,7 @@
 | [0205-isomorphic-strings](https://github.com/suraj15march/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suraj15march/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -273,6 +275,7 @@
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/suraj15march/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/suraj15march/Leetcode/tree/master/0274-h-index) |
@@ -293,6 +296,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/suraj15march/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
