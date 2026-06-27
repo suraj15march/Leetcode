@@ -9,19 +9,12 @@ class Solution {
         while(j<n){
             if(prefixSum[j]>=target){
                 ans = Math.min(ans,j+1);
-                System.out.println(prefixSum[j]);
                 while(prefixSum[j]-prefixSum[i]>=target && i<j){
-                    System.out.println(prefixSum[i]);
                     ans = Math.min(ans,j-i);
                     i++;
                 }
                 
             }
-            // if(prefixSum[j]-prefixSum[i]>=target){
-            //     ans = Math.min(ans,j-i);
-            //     i++;
-            //     continue;
-            // }
             j++;
         }
         return ans;
