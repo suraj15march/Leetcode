@@ -1,5 +1,4 @@
 class RandomizedSet {
-    Set<Integer> set;
     List<Integer> list;
 
     public RandomizedSet() {
