@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/suraj15march/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suraj15march/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suraj15march/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/suraj15march/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suraj15march/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -315,6 +316,7 @@
 | [0067-add-binary](https://github.com/suraj15march/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/suraj15march/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suraj15march/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/suraj15march/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suraj15march/Leetcode/tree/master/0342-power-of-four) |
 ## Counting
@@ -437,5 +439,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/suraj15march/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suraj15march/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
