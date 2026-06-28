@@ -1,8 +1,10 @@
 class RandomizedSet {
     List<Integer> list;
+    Random random;
 
     public RandomizedSet() {
         list = new ArrayList();
+        random = new Random();
     }
     
     public boolean insert(int val) {
@@ -18,7 +20,7 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        return list.get(ThreadLocalRandom.current().nextInt(list.size()));
+        return list.get(random.nextInt(list.size()));
     }
 }
 
