@@ -1,20 +1,12 @@
 class Solution {
     public long maxSum(int[] nums, int k, int mul) {
+        Arrays.sort(nums);
         long ans = 0;
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-        for(int a:nums){
-            pq.add(a);
-        }
-        while(!pq.isEmpty() && k>0){
-            int t = pq.poll();
-            if(mul>0){
-                ans += (long)t*mul;
-                mul--;
-            }
-            else{
-                ans += t;
-            }
-            k--;
+        int n = nums.length;
+        for(int i=n-1; i>=n-k; i--){
+            if(mul>0) ans += (long) nums[i]*mul;
+            else ans += nums[i];
+            mul--;
         }
         return ans;
     }
