@@ -4,7 +4,7 @@ class Solution {
         long ans = 0;
         for(int i= nums.length-1; i>= nums.length-k; i--){
             if(mul>1){
-                ans += (long) nums[i]*mul;
+                ans += (long) nums[i]*mul;;
             }
             else{
                 ans += nums[i];
