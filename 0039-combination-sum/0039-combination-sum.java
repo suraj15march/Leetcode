@@ -5,12 +5,12 @@ class Solution {
             sum = 0;
             return;
         }
+        if(index == candidates.length) return;
         if(sum>target){
             list = new ArrayList();
             sum = 0;
             return;
         }
-        if(index == candidates.length) return;
         sum += candidates[index];
         list.add(candidates[index]);
         helper(ans, list, index, sum, candidates, target);
