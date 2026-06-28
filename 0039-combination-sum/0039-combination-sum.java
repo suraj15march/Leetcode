@@ -2,9 +2,15 @@ class Solution {
     private void helper(List<List<Integer>>ans, List<Integer>list, int index, int sum, int[] candidates, int target){
         if(sum == target){
             ans.add(new ArrayList(list));
+            sum = 0;
             return;
         }
-        if(index == candidates.length || sum>target) return;
+        if(sum>target){
+            list = new ArrayList();
+            sum = 0;
+            return;
+        }
+        if(index == candidates.length) return;
         sum += candidates[index];
         list.add(candidates[index]);
         helper(ans, list, index, sum, candidates, target);
