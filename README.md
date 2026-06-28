@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/suraj15march/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj15march/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suraj15march/Leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suraj15march/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suraj15march/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/suraj15march/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suraj15march/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suraj15march/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0119-pascals-triangle-ii](https://github.com/suraj15march/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj15march/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj15march/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suraj15march/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suraj15march/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/suraj15march/Leetcode/tree/master/0198-house-robber) |
