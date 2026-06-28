@@ -81,6 +81,7 @@
 | [0042-trapping-rain-water](https://github.com/suraj15march/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suraj15march/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/suraj15march/Leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/suraj15march/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/suraj15march/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/suraj15march/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/suraj15march/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj15march/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suraj15march/Leetcode/tree/master/0724-find-pivot-index) |
@@ -218,6 +220,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/suraj15march/Leetcode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/suraj15march/Leetcode/tree/master/1642-water-bottles) |
