@@ -1,31 +1,25 @@
 class RandomizedSet {
-
-    ArrayList<Integer>set;
+    Set<Integer> set;
+    List<Integer> list;
 
     public RandomizedSet() {
-        set = new ArrayList<Integer>();
+        list = new ArrayList();
     }
     
     public boolean insert(int val) {
-        if(set.contains(val))
-            return false;
-        set.add(val);
+        if(list.contains(val)) return false;
+        list.add(val);
         return true;
     }
     
     public boolean remove(int val) {
-        if(set.contains(val)){
-            set.remove(Integer.valueOf(val));
-            return true;
-        }
-        return false;
+        if(!list.contains(val)) return false;
+        list.remove(Integer.valueOf(val));
+        return true;
     }
     
     public int getRandom() {
-        Random random = new Random();
-        int index = random.nextInt(set.size());
-        // return set.get(index);
-        return set.get(index);
+        return list.get(ThreadLocalRandom.current().nextInt(list.size()));
     }
 }
 
