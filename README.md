@@ -70,6 +70,7 @@
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/suraj15march/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suraj15march/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2716-minimize-string-length](https://github.com/suraj15march/Leetcode/tree/master/2716-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -165,6 +166,7 @@
 | [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/suraj15march/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suraj15march/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2058-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/suraj15march/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
