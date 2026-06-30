@@ -1,12 +1,12 @@
 class Solution {
     public boolean checkGoodInteger(int n) {
-        int digitSum = 0, squareSum = 0;
+        int ans = 0;
         while(n>0){
             int a = n%10;
-            digitSum += a;
-            squareSum += a*a;
+            ans += a*(a-1);
+            if(ans>=50) return true;
             n/=10;
         }
-        return squareSum-digitSum>=50;
+        return false;
     }
 }
