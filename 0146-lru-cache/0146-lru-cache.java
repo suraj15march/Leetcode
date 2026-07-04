@@ -1,27 +1,18 @@
 class LRUCache {
     Map<Integer, Integer> map;
-    int size;
+    int capacity;
 
     public LRUCache(int capacity) {
-        map = new LinkedHashMap();
-        size = capacity;
+        this.map = new LinkedHashMap(capacity, 0.75f, true);
+        this.capacity = capacity;
     }
     
     public int get(int key) {
-        if(!map.containsKey(key)) return -1;
-        int value = map.get(key);
-        map.remove(key);
-        map.put(key, value);
-        return value;
+        return map.getOrDefault(key, -1);
     }
     
     public void put(int key, int value) {
-        if(map.containsKey(key)){
-            map.remove(key);
-            map.put(key, value);
-            return;
-        }
-        if(map.size() == size){
+        if(!map.containsKey(key) && map.size() == capacity){
             map.remove(map.keySet().iterator().next());
         }
         map.put(key, value);
