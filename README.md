@@ -256,6 +256,7 @@
 | [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/suraj15march/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suraj15march/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/suraj15march/Leetcode/tree/master/0217-contains-duplicate) |
@@ -399,6 +400,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/suraj15march/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj15march/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/suraj15march/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -457,6 +459,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -464,4 +467,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/suraj15march/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suraj15march/Leetcode/tree/master/0342-power-of-four) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
