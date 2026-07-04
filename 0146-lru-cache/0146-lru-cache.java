@@ -22,7 +22,7 @@ class LRUCache {
             return;
         }
         if(map.size() == size){
-            map.remove(map.keySet().toArray()[0]);
+            map.remove(map.keySet().iterator().next());
         }
         map.put(key, value);
     }
