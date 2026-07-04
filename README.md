@@ -153,6 +153,7 @@
 | [0485-max-consecutive-ones](https://github.com/suraj15march/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/suraj15march/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/suraj15march/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/suraj15march/Leetcode/tree/master/0704-binary-search) |
@@ -401,6 +402,7 @@
 | [0303-range-sum-query-immutable](https://github.com/suraj15march/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/suraj15march/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 ## Randomized
 |  |
 | ------- |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/suraj15march/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -451,6 +454,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
