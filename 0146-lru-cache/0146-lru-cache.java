@@ -21,8 +21,9 @@ class LRUCache {
             map.put(key, value);
             return;
         }
-        if(size<=0){
+        if(size==0){
             map.remove(map.keySet().toArray()[0]);
+            size++;
         }
         map.put(key, value);
         size--;
