@@ -20,6 +20,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suraj15march/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/suraj15march/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2485-find-the-pivot-integer](https://github.com/suraj15march/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/suraj15march/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/suraj15march/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Two Pointers
@@ -307,6 +308,7 @@
 | [0724-find-pivot-index](https://github.com/suraj15march/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj15march/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/suraj15march/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |
 | ------- |
