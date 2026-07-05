@@ -9,7 +9,7 @@ class Solution {
         for(int i=1; i<=n && j<target.length; i++){
             stack.push(i);
             ans.add(push);
-            if(!stack.isEmpty() && stack.peek() != target[j]){
+            if(stack.peek() != target[j]){
                 stack.pop();
                 ans.add(pop);
             }
