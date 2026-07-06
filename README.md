@@ -94,6 +94,7 @@
 | [0503-next-greater-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suraj15march/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suraj15march/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Array
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suraj15march/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/suraj15march/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suraj15march/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj15march/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -447,6 +449,7 @@
 | [0042-trapping-rain-water](https://github.com/suraj15march/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/suraj15march/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suraj15march/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
 | ------- |
