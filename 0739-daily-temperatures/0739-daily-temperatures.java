@@ -1,11 +1,3 @@
-class pair{
-    int index;
-    int value;
-    pair(int index, int value){
-        this.index = index;
-        this.value = value;
-    }
-}
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
         Stack<Integer>stack = new Stack();
