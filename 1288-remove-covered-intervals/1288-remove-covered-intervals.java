@@ -7,7 +7,6 @@ class Solution {
         });
         int[][] stack = new int[n][2];
         int size = 0;
-        System.out.println(Arrays.deepToString(intervals));
         for(int i=0; i<n; i++){
             int[] temp1 = intervals[i];
             if(size == 0){ 
