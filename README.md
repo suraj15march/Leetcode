@@ -521,6 +521,7 @@
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suraj15march/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/suraj15march/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
@@ -529,6 +530,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/suraj15march/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/suraj15march/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suraj15march/Leetcode/tree/master/0342-power-of-four) |
