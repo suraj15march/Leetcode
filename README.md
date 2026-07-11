@@ -281,6 +281,7 @@
 | [0041-first-missing-positive](https://github.com/suraj15march/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/suraj15march/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/suraj15march/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
@@ -503,6 +504,7 @@
 | [0061-rotate-list](https://github.com/suraj15march/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/suraj15march/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/suraj15march/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/suraj15march/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
