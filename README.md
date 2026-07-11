@@ -520,6 +520,7 @@
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suraj15march/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
