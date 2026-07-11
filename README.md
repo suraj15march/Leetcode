@@ -43,6 +43,7 @@
 | [0125-valid-palindrome](https://github.com/suraj15march/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/suraj15march/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suraj15march/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/suraj15march/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/suraj15march/Leetcode/tree/master/0283-move-zeroes) |
@@ -284,6 +285,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/suraj15march/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/suraj15march/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suraj15march/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/suraj15march/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -507,6 +509,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/suraj15march/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suraj15march/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/suraj15march/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/suraj15march/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
