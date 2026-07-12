@@ -7,19 +7,19 @@ class Solution {
                 stack.push(ch);
             else{
                 switch(ch){
-                    case ')':   if(stack.size() == 0 || stack.peek() != '(') 
+                    case ')':   if(stack.isEmpty() || stack.peek() != '(') 
                                     return false;
                                 else{
                                     stack.pop();
                                     break;
                                 }
-                    case '}':   if(stack.size() == 0 || stack.peek() != '{') 
+                    case '}':   if(stack.isEmpty() || stack.peek() != '{') 
                                     return false;
                                 else{
                                     stack.pop();
                                     break;
                                 }
-                    case ']':   if(stack.size() == 0 || stack.peek() != '[') 
+                    case ']':   if(stack.isEmpty() || stack.peek() != '[') 
                                     return false;
                                 else{
                                     stack.pop();
@@ -28,6 +28,6 @@ class Solution {
                 }
             }
         }
-        return stack.size() == 0;
+        return stack.isEmpty();
     }
 }
