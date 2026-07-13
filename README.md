@@ -270,6 +270,7 @@
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suraj15march/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1603-design-parking-system](https://github.com/suraj15march/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/suraj15march/Leetcode/tree/master/1642-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj15march/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -389,6 +390,7 @@
 | [0229-majority-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/suraj15march/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-design-parking-system](https://github.com/suraj15march/Leetcode/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -458,6 +460,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj15march/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1603-design-parking-system](https://github.com/suraj15march/Leetcode/tree/master/1603-design-parking-system) |
 ## Randomized
 |  |
 | ------- |
