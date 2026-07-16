@@ -9,7 +9,6 @@ class Solution {
             int s2 = intervals[i][0], e2 = intervals[i][1];
             if(e1<s2){
                 list.add(new int[]{s2, e2});
-                continue;
             }
             else{
                 list.remove(list.size()-1);
