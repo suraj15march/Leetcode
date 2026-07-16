@@ -8,7 +8,7 @@ class Solution {
             int s1 = list.get(list.size()-1)[0], e1 = list.get(list.size()-1)[1];
             int s2 = intervals[i][0], e2 = intervals[i][1];
             if(e1<s2){
-                list.add(new int[]{s2, e2});
+                list.add(intervals[i]);
             }
             else{
                 list.remove(list.size()-1);
