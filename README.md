@@ -81,6 +81,7 @@
 | [0205-isomorphic-strings](https://github.com/suraj15march/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/suraj15march/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/suraj15march/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -103,6 +104,7 @@
 | [0155-min-stack](https://github.com/suraj15march/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/suraj15march/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj15march/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/suraj15march/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/suraj15march/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
@@ -565,6 +567,7 @@
 | [0206-reverse-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/suraj15march/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suraj15march/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/suraj15march/Leetcode/tree/master/0394-decode-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
