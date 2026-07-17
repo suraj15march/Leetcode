@@ -6,15 +6,27 @@ class Solution {
         for(int i=0; i<n; i++){
             map.put(arr[i], map.getOrDefault(arr[i],0)+1);
         }
-        PriorityQueue<Integer>pq = new PriorityQueue(Collections.reverseOrder());
+        // PriorityQueue<Integer>pq = new PriorityQueue(Collections.reverseOrder());
+        // for(int value: map.values()){
+        //     pq.offer(value);
+        // }
+        // while(!pq.isEmpty()){
+        //     count += pq.poll();
+        //     ans++;
+        //     if(count>=n/2) return ans;
+        // }
+
+        ArrayList<Integer>list = new ArrayList();
         for(int value: map.values()){
-            pq.offer(value);
+            list.add(value);
         }
-        while(!pq.isEmpty()){
-            count += pq.poll();
-            ans++;
-            if(count>=n/2) return ans;
+        Collections.sort(list);
+        int m = list.size();
+        for(int i=m-1; i>=0; i--){
+            count += list.get(i);
+            // ans++;
+            if(count>=n/2) return m-i;
         }
-        return ans;
+        return 0;
     }
 }
