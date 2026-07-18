@@ -195,6 +195,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/suraj15march/Leetcode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/suraj15march/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/suraj15march/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -530,6 +531,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/suraj15march/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/suraj15march/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/suraj15march/Leetcode/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/suraj15march/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Monotonic Queue
 |  |
