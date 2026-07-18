@@ -21,6 +21,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suraj15march/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/suraj15march/Leetcode/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/suraj15march/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/suraj15march/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/suraj15march/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -213,6 +214,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/suraj15march/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suraj15march/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/suraj15march/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2043-simple-bank-system](https://github.com/suraj15march/Leetcode/tree/master/2043-simple-bank-system) |
 | [2058-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/suraj15march/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -594,6 +596,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/suraj15march/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suraj15march/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
