@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suraj15march/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0556-next-greater-element-iii](https://github.com/suraj15march/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suraj15march/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj15march/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -56,6 +57,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/suraj15march/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suraj15march/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/suraj15march/Leetcode/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/suraj15march/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +88,7 @@
 | [0394-decode-string](https://github.com/suraj15march/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/suraj15march/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/suraj15march/Leetcode/tree/master/1189-maximum-number-of-balloons) |
