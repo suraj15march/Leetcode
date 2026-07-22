@@ -36,6 +36,7 @@
 | [0005-longest-palindromic-substring](https://github.com/suraj15march/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/suraj15march/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/suraj15march/Leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suraj15march/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suraj15march/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -569,6 +570,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suraj15march/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/suraj15march/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suraj15march/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/suraj15march/Leetcode/tree/master/0086-partition-list) |
