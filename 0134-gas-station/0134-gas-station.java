@@ -12,7 +12,6 @@ class Solution {
                 startIndex = i+1;
             }
         }
-        if(totalGas>=totalCost) return startIndex;
-        return -1;
+        return totalGas>=totalCost? startIndex: -1;
     }
 }
