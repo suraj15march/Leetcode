@@ -27,6 +27,7 @@
 | [2485-find-the-pivot-integer](https://github.com/suraj15march/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/suraj15march/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/suraj15march/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/suraj15march/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suraj15march/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suraj15march/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -411,6 +412,7 @@
 | [1366-rank-teams-by-votes](https://github.com/suraj15march/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/suraj15march/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3536-maximum-product-of-two-digits](https://github.com/suraj15march/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
