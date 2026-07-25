@@ -80,6 +80,7 @@
 | [0049-group-anagrams](https://github.com/suraj15march/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/suraj15march/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/suraj15march/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/suraj15march/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/suraj15march/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/suraj15march/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -146,6 +147,7 @@
 | [0055-jump-game](https://github.com/suraj15march/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/suraj15march/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/suraj15march/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/suraj15march/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/suraj15march/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/suraj15march/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/suraj15march/Leetcode/tree/master/0078-subsets) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/suraj15march/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/suraj15march/Leetcode/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
