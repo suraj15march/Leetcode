@@ -38,15 +38,26 @@ class Solution {
         return list.next;
     }
     public ListNode mergeKLists(ListNode[] lists) {
-        int n = lists.length;
-        if(n == 0) return null;
-        if(n == 1) return lists[0];
-        ListNode head = new ListNode(0);
-        ListNode dummy = head;
-        ListNode temp = lists[0];
-        for(int i=1; i<n; i++){
-            temp = mergeTwoLists(temp, lists[i]);
+        // int n = lists.length;
+        // if(n == 0) return null;
+        // if(n == 1) return lists[0];
+        // ListNode head = new ListNode(0);
+        // ListNode dummy = head;
+        // ListNode temp = lists[0];
+        // for(int i=1; i<n; i++){
+        //     temp = mergeTwoLists(temp, lists[i]);
+        // }
+        // return temp;
+
+        if (lists == null || lists.length == 0) return null;
+    
+        int interval = 1;
+        while (interval < lists.length) {
+            for (int i = 0; i + interval < lists.length; i += interval * 2) {
+            lists[i] = mergeTwoLists(lists[i], lists[i +        interval]);
+            }
+            interval *= 2;
         }
-        return temp;
+        return lists[0];
     }
 }
