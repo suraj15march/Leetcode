@@ -1,26 +1,26 @@
 class Solution {
     public int maximumProduct(int[] nums) {
         int m1 = -1001, m2 = -1001, m3 = -1001, min1 = 1001, min2 = 1001, n = nums.length;
-        for(int i=0; i<n; i++){
-            if(nums[i]>m1){
+        for(int num: nums){
+            if(num>m1){
                 m3 = m2;
                 m2 = m1;
-                m1 = nums[i];
+                m1 = num;
             }
-            else if(nums[i]>m2){
+            else if(num>m2){
                 m3 = m2;
-                m2 = nums[i];
+                m2 = num;
             }
-            else if(nums[i]>m3){
-                m3 = nums[i];
+            else if(num>m3){
+                m3 = num;
             }
 
             // Find top 2 minimums
-            if (nums[i] < min1) {
+            if (num < min1) {
                 min2 = min1;
-                min1 = nums[i];
-            } else if (nums[i] < min2) {
-                min2 = nums[i];
+                min1 = num;
+            } else if (num < min2) {
+                min2 = num;
             }
         }
         return Math.max(m1*m2*m3, m1*min1*min2);
