@@ -23,6 +23,7 @@ class Solution {
                 min2 = num;
             }
         }
-        return Math.max(m1*m2*m3, m1*min1*min2);
+        int a = m1*m2*m3, b = m1*min1*min2;
+        return a>b?a:b;
     }
 }
