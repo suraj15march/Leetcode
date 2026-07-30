@@ -27,10 +27,12 @@ class Solution {
             for (int i = 0; i < size; i++) {
                 TreeNode node = queue.poll();
                 sum += node.val;
-                if (node.left != null)
+                if (node.left != null) {
                     queue.offer(node.left);
-                if (node.right != null)
+                }
+                if (node.right != null) {
                     queue.offer(node.right);
+                }
             }
             ans.add(1.0 * sum / size);
         }
