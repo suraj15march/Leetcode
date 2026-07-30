@@ -251,6 +251,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/suraj15march/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -272,6 +273,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj15march/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -540,6 +542,7 @@
 | [0112-path-sum](https://github.com/suraj15march/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj15march/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -552,6 +555,7 @@
 | [0112-path-sum](https://github.com/suraj15march/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj15march/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Combinatorics
 |  |
