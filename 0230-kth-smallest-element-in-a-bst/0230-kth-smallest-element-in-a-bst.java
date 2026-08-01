@@ -14,12 +14,12 @@
  * }
  */
 class Solution {
-    Integer i=0, ans = -1;
+    Integer index=0, ans = -1;
     void helper(TreeNode root, int k){
         if(root == null) return;
         helper(root.left, k);
-        i++;
-        if(i==k){
+        index++;
+        if(index==k){
             ans = root.val;
             return;
         }
