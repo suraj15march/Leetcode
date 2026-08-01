@@ -20,13 +20,13 @@ class Solution {
         if(root == null) return;
         helper(root.left);
         list.add(root.val);
+        if(list.size()>1){
+            ans = Math.min(ans, list.get(list.size()-1)-list.get(list.size()-2));
+        }
         helper(root.right);
     }
     public int getMinimumDifference(TreeNode root) {
         helper(root);
-        for(int i=1; i<list.size(); i++){
-            ans = Math.min(ans,list.get(i)-list.get(i-1));
-        }
         return ans;
     }
 }
