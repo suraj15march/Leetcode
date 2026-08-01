@@ -16,7 +16,7 @@
 class Solution {
     int index=0, ans = -1;
     void helper(TreeNode root, int k){
-        if(root == null) return;
+        if(root == null || index>k) return;
         helper(root.left, k);
         index++;
         if(index==k){
