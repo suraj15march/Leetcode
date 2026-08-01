@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    Integer index=0, ans = -1;
+    int index=0, ans = -1;
     void helper(TreeNode root, int k){
         if(root == null) return;
         helper(root.left, k);
