@@ -26,7 +26,7 @@ class Solution {
         list.add(root.val);
         helper(root.left, targetSum-root.val, list);
         helper(root.right, targetSum-root.val, list);
-        if(list.size()>0) list.remove(list.size()-1);
+        list.remove(list.size()-1);
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         ans = new ArrayList<>();
