@@ -15,7 +15,7 @@
  */
 class BSTIterator {
 
-    Queue<Integer> queue = new ArrayDeque<>();
+    Queue<Integer> queue = new LinkedList<>();
 
     void inOrder(TreeNode root) {
         if (root == null) {
@@ -31,7 +31,7 @@ class BSTIterator {
     }
 
     public int next() {
-        if (hasNext()) {
+        if (!queue.isEmpty()) {
             return queue.poll();
         }
         return -1;
