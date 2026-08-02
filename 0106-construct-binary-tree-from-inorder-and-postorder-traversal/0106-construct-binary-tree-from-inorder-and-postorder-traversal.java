@@ -18,7 +18,7 @@ class Solution {
     int index;
 
     TreeNode helper(int[] postorder, int start, int end) {
-        if (start > end || index < 0) {
+        if (start > end) {
             return null;
         }
         TreeNode root = new TreeNode(postorder[index]);
