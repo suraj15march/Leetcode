@@ -14,14 +14,26 @@
  * }
  */
 class Solution {
-    public boolean sameTree(TreeNode t1, TreeNode t2){
-        if(t1 == null && t2 == null) return true;
-        if(t1 == null|| t2==null || t1.val != t2.val) return false;
+    public boolean sameTree(TreeNode t1, TreeNode t2) {
+        if (t1 == null && t2 == null) {
+            return true;
+        }
+        if (t1 == null || t2 == null || t1.val != t2.val) {
+            return false;
+        }
         return sameTree(t1.left, t2.left) && sameTree(t1.right, t2.right);
     }
+
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        if(root == null) return false;
-        if(sameTree(root, subRoot)) return true;
+        if (root == null && subRoot == null) {
+            return true;
+        }
+        if (root == null || subRoot == null) {
+            return false;
+        }
+        if (sameTree(root, subRoot)) {
+            return true;
+        }
         return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 }
