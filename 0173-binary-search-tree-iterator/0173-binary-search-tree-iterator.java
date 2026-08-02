@@ -31,7 +31,7 @@ class BSTIterator {
     }
 
     public int next() {
-        if (!queue.isEmpty()) {
+        if (hasNext()) {
             return queue.poll();
         }
         return -1;
