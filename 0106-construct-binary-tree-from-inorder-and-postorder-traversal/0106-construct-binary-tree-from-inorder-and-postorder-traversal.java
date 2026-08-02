@@ -22,10 +22,10 @@ class Solution {
             return null;
         }
         TreeNode root = new TreeNode(postorder[index]);
-        int m = map.get(postorder[index]);
+        int mid = map.get(postorder[index]);
         index--;
-        root.right = helper(postorder, m + 1, end);
-        root.left = helper(postorder, start, m - 1);
+        root.right = helper(postorder, mid + 1, end);
+        root.left = helper(postorder, start, mid - 1);
         return root;
     }
 
