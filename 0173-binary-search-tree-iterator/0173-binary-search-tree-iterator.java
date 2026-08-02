@@ -15,22 +15,28 @@
  */
 class BSTIterator {
 
-    Queue<Integer>queue = new ArrayDeque<>();
+    Queue<Integer> queue = new ArrayDeque<>();
+
     void inOrder(TreeNode root) {
-        if(root == null) return;
+        if (root == null) {
+            return;
+        }
         inOrder(root.left);
         queue.offer(root.val);
         inOrder(root.right);
     }
+
     public BSTIterator(TreeNode root) {
         inOrder(root);
     }
-    
+
     public int next() {
-        if(hasNext()) return queue.poll();
+        if (!queue.isEmpty()) {
+            return queue.poll();
+        }
         return -1;
     }
-    
+
     public boolean hasNext() {
         return !queue.isEmpty();
     }
