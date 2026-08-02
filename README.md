@@ -284,6 +284,7 @@
 | [0226-invert-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj15march/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/suraj15march/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/suraj15march/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union Find
 |  |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/suraj15march/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -561,6 +563,7 @@
 | [0226-invert-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj15march/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/suraj15march/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/suraj15march/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -581,6 +584,7 @@
 | [0226-invert-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj15march/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/suraj15march/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/suraj15march/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Combinatorics
@@ -695,4 +699,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suraj15march/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/suraj15march/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
