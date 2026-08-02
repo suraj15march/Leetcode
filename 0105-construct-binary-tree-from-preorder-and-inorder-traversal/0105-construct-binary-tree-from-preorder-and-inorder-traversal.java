@@ -16,14 +16,16 @@
 class Solution {
     Map<Integer, Integer>map = new HashMap<>();
     int index = 0;
-    TreeNode helper(int[] preorder, int l, int h){
+    TreeNode helper(int[] preorder, int[] inorder, int l, int h){
         if(l>h) return null;
 
         TreeNode root = new TreeNode(preorder[index]);
-        int m = map.get(preorder[index]);
+        int m = l;
+        while(inorder[m] != preorder[index]) m++;
+        // int m = map.get(preorder[index]);
         index++;
-        root.left = helper(preorder, l, m-1);
-        root.right = helper(preorder, m+1, h);
+        root.left = helper(preorder, inorder, l, m-1);
+        root.right = helper(preorder, inorder, m+1, h);
         return root;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
@@ -32,6 +34,6 @@ class Solution {
         for(int i=0; i<n; i++){
             map.put(inorder[i], i);
         }
-        return helper(preorder, 0, n-1);
+        return helper(preorder, inorder, 0, n-1);
     }
 }
