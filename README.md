@@ -297,6 +297,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/suraj15march/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Union Find
 |  |
 | ------- |
@@ -598,6 +599,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -630,6 +632,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Combinatorics
 |  |
 | ------- |
@@ -742,6 +745,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Merge Sort
 |  |
 | ------- |
