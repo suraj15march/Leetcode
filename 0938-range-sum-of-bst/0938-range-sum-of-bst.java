@@ -14,16 +14,10 @@
  * }
  */
 class Solution {
-    int ans = 0;
-    void preorder(TreeNode root, int low, int high) {
-        if(root == null) return;
-        if(root.val>= low && root.val<=high)
-            ans += root.val;
-        preorder(root.left, low, high);
-        preorder(root.right, low, high);
-    }
     public int rangeSumBST(TreeNode root, int low, int high) {
-        preorder(root, low, high);
-        return ans;
+        if(root == null) return 0;
+        if(root.val<low) return rangeSumBST(root.right, low, high);
+        if(root.val>high) return rangeSumBST(root.left, low, high);
+        return root.val + rangeSumBST(root.left, low, high) + rangeSumBST(root.right, low, high);
     }
 }
