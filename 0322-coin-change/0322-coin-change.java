@@ -15,8 +15,6 @@ class Solution {
                 dp[i][j] = -1;
             }
         }
-        // int ans = helper(coins, 0, amount);
-        // return ans>=1e9? -1: ans;
         int ans = helper(coins, 0, amount);
         return ans>=1e9? -1: ans;
     }
