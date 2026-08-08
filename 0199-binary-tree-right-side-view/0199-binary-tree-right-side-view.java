@@ -17,7 +17,7 @@ class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer>list = new ArrayList<>();
         if(root == null) return list;
-        Queue<TreeNode>q = new ArrayDeque<>();
+        Queue<TreeNode>q = new LinkedList<>();
         q.offer(root);
         while(!q.isEmpty()){
             int size = q.size();
