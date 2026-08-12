@@ -253,6 +253,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/suraj15march/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj15march/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suraj15march/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/suraj15march/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3731-find-missing-elements](https://github.com/suraj15march/Leetcode/tree/master/3731-find-missing-elements) |
@@ -416,6 +417,7 @@
 | [2043-simple-bank-system](https://github.com/suraj15march/Leetcode/tree/master/2043-simple-bank-system) |
 | [2716-minimize-string-length](https://github.com/suraj15march/Leetcode/tree/master/2716-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj15march/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suraj15march/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/suraj15march/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -557,6 +559,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/suraj15march/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj15march/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj15march/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
