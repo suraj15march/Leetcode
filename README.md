@@ -214,6 +214,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj15march/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/suraj15march/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/suraj15march/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj15march/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suraj15march/Leetcode/tree/master/0724-find-pivot-index) |
@@ -279,6 +280,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/suraj15march/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/suraj15march/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -290,6 +292,7 @@
 | [0200-number-of-islands](https://github.com/suraj15march/Leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/suraj15march/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/suraj15march/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
@@ -321,6 +324,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/suraj15march/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Union Find
@@ -854,4 +858,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suraj15march/Leetcode/tree/master/0037-sudoku-solver) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
