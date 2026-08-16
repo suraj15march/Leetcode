@@ -1,7 +1,8 @@
 class MyHashSet {
-    boolean[] map = new boolean[1000001];
+    boolean[] map;
 
     public MyHashSet() {
+        map = new boolean[1000001];
     }
     
     public void add(int key) {
