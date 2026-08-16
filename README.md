@@ -219,6 +219,7 @@
 | [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/suraj15march/Leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/suraj15march/Leetcode/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj15march/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suraj15march/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/suraj15march/Leetcode/tree/master/0739-daily-temperatures) |
@@ -419,6 +420,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj15march/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/suraj15march/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/suraj15march/Leetcode/tree/master/0705-design-hashset) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/suraj15march/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -612,6 +614,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj15march/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/suraj15march/Leetcode/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/suraj15march/Leetcode/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj15march/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/suraj15march/Leetcode/tree/master/1603-design-parking-system) |
@@ -774,6 +777,7 @@
 | [0206-reverse-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/suraj15march/Leetcode/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/suraj15march/Leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -830,6 +834,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/suraj15march/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/suraj15march/Leetcode/tree/master/0705-design-hashset) |
 ## Iterator
 |  |
 | ------- |
