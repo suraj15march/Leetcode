@@ -1,8 +1,6 @@
 class MyHashMap {
-    int[] map;
-
+    int[] map = new int[1000001];
     public MyHashMap() {
-        map = new int[1000001];
         for (int i = 0; i < 1000001; i++) {
             map[i] = -1;
         }
