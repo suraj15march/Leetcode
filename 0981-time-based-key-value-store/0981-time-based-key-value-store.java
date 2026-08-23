@@ -16,11 +16,6 @@ class TimeMap {
     }
 
     public void set(String key, String value, int timestamp) {
-        // if (!map.containsKey(key)) {
-        //     map.put(key, new ArrayList<>());
-        // }
-        // List<Pair>list = map.get(key);
-        // list.add(new Pair(value, timestamp));
         map.putIfAbsent(key, new ArrayList<>());
         map.get(key).add(new Pair(value, timestamp));
     }
