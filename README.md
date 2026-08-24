@@ -105,6 +105,7 @@
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/suraj15march/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/suraj15march/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/suraj15march/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1366-rank-teams-by-votes](https://github.com/suraj15march/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1768-merge-strings-alternately](https://github.com/suraj15march/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -568,6 +569,7 @@
 | [0392-is-subsequence](https://github.com/suraj15march/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/suraj15march/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/suraj15march/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/suraj15march/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -903,4 +905,8 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/suraj15march/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
