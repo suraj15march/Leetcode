@@ -236,6 +236,7 @@
 | [0739-daily-temperatures](https://github.com/suraj15march/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/suraj15march/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suraj15march/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/suraj15march/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/suraj15march/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -469,6 +470,7 @@
 | [0055-jump-game](https://github.com/suraj15march/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj15march/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/suraj15march/Leetcode/tree/master/0134-gas-station) |
+| [0860-lemonade-change](https://github.com/suraj15march/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1338-reduce-array-size-to-the-half](https://github.com/suraj15march/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
