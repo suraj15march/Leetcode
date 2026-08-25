@@ -20,6 +20,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/suraj15march/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0556-next-greater-element-iii](https://github.com/suraj15march/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj15march/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/suraj15march/Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suraj15march/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj15march/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
