@@ -1,17 +1,27 @@
 class Solution {
-    int[] ans;
-    int getOnes(int n){
-        if(n==0) return 0;
-        if(n%2 == 1) return 1+getOnes(n/2);
-        return getOnes(n/2);
-    }
-    public int[] countBits(int n) {
-        ans = new int[n+1];
-        Arrays.fill(ans, -1);
-        for(int i=0; i<=n; i++){
-            ans[i] = getOnes(i);
+    int[] dp;
+
+    int getOnes(int n) {
+        if(dp[n] != -1) return dp[n];
+        if (n == 0) {
+            return 0;
         }
-        return ans;
+        if (n % 2 == 1) {
+            dp[n] = 1 + getOnes(n / 2);
+        }
+        else{
+            dp[n] = getOnes(n / 2);
+        }
+        return dp[n];
+    }
+
+    public int[] countBits(int n) {
+        dp = new int[n + 1];
+        Arrays.fill(dp, -1);
+        for (int i = 0; i <= n; i++) {
+            dp[i] = getOnes(i);
+        }
+        return dp;
     }
 }
 
