@@ -1,15 +1,13 @@
 class Solution {
-
+    int[] ans;
     int getOnes(int n){
-        int one = 0;
-        while(n>0){
-            if(n%2==1) one++;
-            n /= 2;
-        }
-        return one;
+        if(n==0) return 0;
+        if(n%2 == 1) return 1+getOnes(n/2);
+        return getOnes(n/2);
     }
     public int[] countBits(int n) {
-        int[] ans = new int[n+1];
+        ans = new int[n+1];
+        Arrays.fill(ans, -1);
         for(int i=0; i<=n; i++){
             ans[i] = getOnes(i);
         }
