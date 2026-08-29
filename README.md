@@ -14,6 +14,7 @@
 | [0168-excel-sheet-column-title](https://github.com/suraj15march/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/suraj15march/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/suraj15march/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/suraj15march/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suraj15march/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/suraj15march/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -398,6 +399,7 @@
 | [0054-spiral-matrix](https://github.com/suraj15march/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/suraj15march/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/suraj15march/Leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/suraj15march/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/suraj15march/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -858,6 +860,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suraj15march/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj15march/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suraj15march/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
