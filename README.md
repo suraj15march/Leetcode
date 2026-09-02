@@ -40,6 +40,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suraj15march/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suraj15march/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suraj15march/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [3731-find-missing-elements](https://github.com/suraj15march/Leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/suraj15march/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suraj15march/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
