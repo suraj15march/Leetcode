@@ -292,6 +292,7 @@
 | [3838-weighted-word-mapping](https://github.com/suraj15march/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suraj15march/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/suraj15march/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -514,6 +515,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/suraj15march/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/suraj15march/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/suraj15march/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
