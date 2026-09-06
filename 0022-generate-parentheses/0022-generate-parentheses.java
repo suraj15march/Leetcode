@@ -4,7 +4,6 @@ class Solution {
             ans.add(new StringBuilder(sb).toString());
             return;
         }
-        // if(open>n || close>n) return;
         if(open<n){
             sb.append('(');
             helper(ans, sb, open+1, close, n);
