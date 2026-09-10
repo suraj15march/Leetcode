@@ -376,6 +376,7 @@
 | [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suraj15march/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union Find
 |  |
 | ------- |
@@ -741,6 +742,7 @@
 | [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suraj15march/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suraj15march/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -784,6 +786,7 @@
 | [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suraj15march/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suraj15march/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Combinatorics
 |  |
 | ------- |
