@@ -13,7 +13,7 @@
  *     }
  * }
  */
- class Pair{
+class Pair{
     int a;
     int b;
     Pair(int a, int b){
