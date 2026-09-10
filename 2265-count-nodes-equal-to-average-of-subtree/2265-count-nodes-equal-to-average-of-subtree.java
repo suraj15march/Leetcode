@@ -22,26 +22,20 @@
     }
  }
 class Solution {
-    int ans = 0;
-    public Pair helper(TreeNode root) {
-        if(root == null) return new Pair(0, 0);;
-        Pair lp = helper(root.left);
-        Pair rp = helper(root.right);
+    public Pair helper(TreeNode root, int[] ans) {
+        if(root == null) return new Pair(0, 0);
+        Pair lp = helper(root.left, ans);
+        Pair rp = helper(root.right, ans);
         int count = 1+lp.a+rp.a;
         int sum = root.val+lp.b+rp.b;
 
-        if(sum/count == root.val) ans++;
+        if(sum/count == root.val) ans[0]++;
 
-        // System.out.print(root.val);
-        // System.out.print(" ");
-        // System.out.print(count);
-        // System.out.print(" ");
-        // System.out.print(sum);
-        // System.out.println();
         return new Pair(count, sum);
     }
     public int averageOfSubtree(TreeNode root) {
-        Pair pair = helper(root);
-        return ans;
+        int[] ans = new int[1];
+        Pair pair = helper(root, ans);
+        return ans[0];
     }
 }
