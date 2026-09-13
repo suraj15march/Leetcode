@@ -3,7 +3,6 @@ class Solution {
         if(visited[start] == 1) return false;
         if(visited[start] == 2) return true;
         visited[start] = 1;
-        System.out.println(start);
         List<Integer>list = graph.getOrDefault(start, new ArrayList<>());
         for(int i=0; i<list.size(); i++){
             if(!dfs(list.get(i), visited, graph)) return false;
