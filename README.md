@@ -964,6 +964,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/suraj15march/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/suraj15march/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/suraj15march/Leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -1045,4 +1046,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/suraj15march/Leetcode/tree/master/0836-rectangle-overlap) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/suraj15march/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
