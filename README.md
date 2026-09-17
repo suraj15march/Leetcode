@@ -254,6 +254,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/suraj15march/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suraj15march/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/suraj15march/Leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/suraj15march/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/suraj15march/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suraj15march/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/suraj15march/Leetcode/tree/master/0860-lemonade-change) |
@@ -490,6 +491,7 @@
 | [0496-next-greater-element-i](https://github.com/suraj15march/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/suraj15march/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suraj15march/Leetcode/tree/master/0706-design-hashmap) |
+| [0740-delete-and-earn](https://github.com/suraj15march/Leetcode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/suraj15march/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/suraj15march/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -640,6 +642,7 @@
 | [0435-non-overlapping-intervals](https://github.com/suraj15march/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/suraj15march/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/suraj15march/Leetcode/tree/master/0518-coin-change-ii) |
+| [0740-delete-and-earn](https://github.com/suraj15march/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/suraj15march/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/suraj15march/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/suraj15march/Leetcode/tree/master/1035-uncrossed-lines) |
