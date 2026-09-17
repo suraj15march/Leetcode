@@ -239,6 +239,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suraj15march/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/suraj15march/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/suraj15march/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/suraj15march/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/suraj15march/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/suraj15march/Leetcode/tree/master/0518-coin-change-ii) |
@@ -637,6 +638,7 @@
 | [0392-is-subsequence](https://github.com/suraj15march/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/suraj15march/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suraj15march/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/suraj15march/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/suraj15march/Leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/suraj15march/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/suraj15march/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
@@ -662,6 +664,7 @@
 | [0090-subsets-ii](https://github.com/suraj15march/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/suraj15march/Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/suraj15march/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/suraj15march/Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj15march/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Sliding Window
 |  |
@@ -965,6 +968,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/suraj15march/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/suraj15march/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/suraj15march/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/suraj15march/Leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -1050,4 +1054,5 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/suraj15march/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/suraj15march/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
