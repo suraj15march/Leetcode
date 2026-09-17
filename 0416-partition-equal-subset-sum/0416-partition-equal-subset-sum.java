@@ -1,21 +1,20 @@
 class Solution {
-
-    private Boolean[][] ans;
-
-    private boolean subsetSum(int[] nums, int sum, int index){
-        if(sum == 0) return true;
-        if(index>nums.length-1 || sum <0) {
-            return false;
-        }
-        // if(nums[index] > sum) return false;
-        if(ans[index][sum] != null) return ans[index][sum];
-        ans[index][sum] = (subsetSum(nums, sum-nums[index], index+1) || subsetSum(nums, sum, index+1));
-        return ans[index][sum];
+    int subsetSum(int index, int target, int[] nums, int[][]dp){
+        if(index>=nums.length || target<0) return 0;
+        if(dp[index][target] != -1) return dp[index][target];
+        if(target == 0) return 1;
+        return dp[index][target] = Math.max(subsetSum(index+1, target-nums[index], nums, dp), subsetSum(index+1, target, nums, dp));
     }
     public boolean canPartition(int[] nums) {
-        int sum = Arrays.stream(nums).sum();
-        if(sum%2 == 1) return false;
-        ans = new Boolean[nums.length][sum/2+1];
-        return subsetSum(nums, sum/2, 0);
+        int sum = 0;
+        for(int num: nums) sum += num;
+        if(sum%2 != 0) return false;
+        int n = nums.length;
+        int target = sum/2;
+        int[][]dp = new int[n][target+1];
+        for(int[]arr: dp){
+            Arrays.fill(arr, -1);
+        }
+        return subsetSum(0, target, nums, dp) == 1;
     }
 }
