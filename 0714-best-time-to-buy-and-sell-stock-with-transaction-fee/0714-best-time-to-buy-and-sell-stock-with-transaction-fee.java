@@ -5,10 +5,10 @@ class Solution {
 
         int skip = helper(index+1, canBuy, prices, fee, dp);
         if(canBuy == 1){
-            int buy = -prices[index] + helper(index+1, 0, prices, fee, dp);
+            int buy = -prices[index]-fee + helper(index+1, 0, prices, fee, dp);
             return dp[index][canBuy] = Math.max(skip, buy);
         }
-        int sell = prices[index]-fee + helper(index+1, 1, prices, fee, dp);
+        int sell = prices[index] + helper(index+1, 1, prices, fee, dp);
         return dp[index][canBuy] = Math.max(skip, sell);
     }
     public int maxProfit(int[] prices, int fee) {
