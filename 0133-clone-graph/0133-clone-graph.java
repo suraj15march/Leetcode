@@ -19,19 +19,17 @@ class Node {
 */
 
 class Solution {
-    void traversal(Node node, Set<Integer>set, Map<Node, Node>map){
-        if(node == null || set.contains(node.val)) return;
-        set.add(node.val);
+    void traversal(Node node, Map<Node, Node>map){
+        if(node == null || map.containsKey(node)) return;
         map.put(node, new Node(node.val));
         List<Node> neighbors = node.neighbors;
         for(int i=0; i<neighbors.size(); i++){
-            traversal(neighbors.get(i), set, map);
+            traversal(neighbors.get(i), map);
         }
     }
     public Node cloneGraph(Node node) {
         Map<Node, Node>map = new HashMap<>();
-        Set<Integer>set = new HashSet<>();
-        traversal(node, set, map);
+        traversal(node, map);
         for(Node temp: map.keySet()){
             List<Node>list1 = temp.neighbors;
             List<Node>list2 = map.get(temp).neighbors;
