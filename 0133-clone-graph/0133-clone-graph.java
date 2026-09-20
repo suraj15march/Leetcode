@@ -21,8 +21,6 @@ class Node {
 class Solution {
     void traversal(Node node, Set<Integer>set, Map<Node, Node>map){
         if(node == null || set.contains(node.val)) return;
-        System.out.print(node.val);
-        System.out.print("->");
         set.add(node.val);
         map.put(node, new Node(node.val));
         List<Node> neighbors = node.neighbors;
