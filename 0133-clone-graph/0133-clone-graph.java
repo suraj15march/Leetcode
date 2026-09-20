@@ -19,25 +19,20 @@ class Node {
 */
 
 class Solution {
-    void traversal(Node node, Map<Node, Node>map){
-        if(node == null || map.containsKey(node)) return;
-        map.put(node, new Node(node.val));
-        List<Node> neighbors = node.neighbors;
-        for(int i=0; i<neighbors.size(); i++){
-            traversal(neighbors.get(i), map);
+    Node traversal(Node node, Map<Node, Node>map){
+        if(map.containsKey(node)) return map.get(node);
+
+        Node clone = new Node(node.val);
+        map.put(node, clone);
+        for(Node neighbor: node.neighbors){
+            clone.neighbors.add(traversal(neighbor, map));
         }
+        return clone;
     }
     public Node cloneGraph(Node node) {
+        if(node == null) return null;
         Map<Node, Node>map = new HashMap<>();
-        traversal(node, map);
-        for(Node temp: map.keySet()){
-            List<Node>list1 = temp.neighbors;
-            List<Node>list2 = map.get(temp).neighbors;
-            for(int i=0; i<list1.size(); i++){
-                Node n1 = list1.get(i);
-                list2.add(map.get(n1));
-            }
-        }
-        return map.get(node);
+        
+        return traversal(node, map);
     }
 }
