@@ -108,6 +108,7 @@
 | [0205-isomorphic-strings](https://github.com/suraj15march/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj15march/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/suraj15march/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/suraj15march/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/suraj15march/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suraj15march/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -499,6 +500,7 @@
 | [0229-majority-element-ii](https://github.com/suraj15march/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suraj15march/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/suraj15march/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/suraj15march/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/suraj15march/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suraj15march/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
