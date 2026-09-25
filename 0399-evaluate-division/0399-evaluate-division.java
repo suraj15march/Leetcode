@@ -15,8 +15,7 @@ class Solution {
         if (source.equals(dest))
             return 1.0;
         visited.add(source);
-        List<Pair> list = graph.get(source);
-        for (Pair pair : list) {
+        for (Pair pair : graph.get(source)) {
             if (!visited.contains(pair.str)) {
                 double subResult = dfs(pair.str, dest, graph, visited);
                 if (subResult != -1)
@@ -30,18 +29,15 @@ class Solution {
         Map<String, List<Pair>> graph = new HashMap<>();
         int n = values.length;
         for (int i = 0; i < n; i++) {
-            List<String> list = equations.get(i);
-            Pair p1 = new Pair(list.get(1), values[i]);
-            Pair p2 = new Pair(list.get(0), 1.0 / values[i]);
-            graph.computeIfAbsent(list.get(0), k -> new ArrayList()).add(p1);
-            graph.computeIfAbsent(list.get(1), k -> new ArrayList()).add(p2);
+            Pair p1 = new Pair(equations.get(i).get(1), values[i]);
+            Pair p2 = new Pair(equations.get(i).get(0), 1.0 / values[i]);
+            graph.computeIfAbsent(equations.get(i).get(0), k -> new ArrayList()).add(p1);
+            graph.computeIfAbsent(equations.get(i).get(1), k -> new ArrayList()).add(p2);
         }
         int m = queries.size();
         double[] ans = new double[m];
-        // Set<String> set = new HashSet<>();
         for (int i = 0; i < m; i++) {
-            List<String> list = queries.get(i);
-            ans[i] = dfs(list.get(0), list.get(1), graph, new HashSet<>());
+            ans[i] = dfs(queries.get(i).get(0), queries.get(i).get(1), graph, new HashSet<>());
         }
         return ans;
     }
