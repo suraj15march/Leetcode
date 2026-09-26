@@ -5,10 +5,10 @@ class Solution {
             map.put(knowledge.get(i).get(0), knowledge.get(i).get(1));
         }
         StringBuilder str = new StringBuilder();
-        int i=0, j=0, n=s.length();
-        while(i<=j && j<n){
+        int n=s.length();
+        for(int i=0;i<n;i++){
             if(s.charAt(i)=='('){
-                j=i+1;
+                int j=i+1;
                 while(s.charAt(j) != ')'){
                     j++;
                 }
@@ -19,14 +19,9 @@ class Solution {
                     str.append("?");
                 i=j;
             }
-            if(s.charAt(i) == ')'){
-                i++;
-                j++;
-                continue;
+            else{
+                str.append(s.charAt(i));
             }
-            str.append(s.charAt(i));
-            i++;
-            j++;
         }
         return str.toString();
     }
