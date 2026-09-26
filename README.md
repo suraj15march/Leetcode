@@ -125,6 +125,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suraj15march/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1366-rank-teams-by-votes](https://github.com/suraj15march/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1768-merge-strings-alternately](https://github.com/suraj15march/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suraj15march/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suraj15march/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2716-minimize-string-length](https://github.com/suraj15march/Leetcode/tree/master/2716-minimize-string-length) |
@@ -303,6 +304,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj15march/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suraj15march/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/suraj15march/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/suraj15march/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suraj15march/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -537,6 +539,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/suraj15march/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suraj15march/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2043-simple-bank-system](https://github.com/suraj15march/Leetcode/tree/master/2043-simple-bank-system) |
 | [2716-minimize-string-length](https://github.com/suraj15march/Leetcode/tree/master/2716-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
