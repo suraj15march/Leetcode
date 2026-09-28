@@ -125,6 +125,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suraj15march/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1366-rank-teams-by-votes](https://github.com/suraj15march/Leetcode/tree/master/1366-rank-teams-by-votes) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/suraj15march/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suraj15march/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suraj15march/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -161,6 +162,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suraj15march/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suraj15march/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj15march/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
@@ -1081,6 +1083,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/suraj15march/Leetcode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
