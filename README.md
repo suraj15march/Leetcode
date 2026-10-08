@@ -123,6 +123,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suraj15march/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/suraj15march/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/suraj15march/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1021-remove-outermost-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suraj15march/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/suraj15march/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/suraj15march/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -167,6 +168,7 @@
 | [0901-online-stock-span](https://github.com/suraj15march/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suraj15march/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suraj15march/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suraj15march/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suraj15march/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1099,6 +1101,7 @@
 | [0678-valid-parenthesis-string](https://github.com/suraj15march/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/suraj15march/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suraj15march/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suraj15march/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
