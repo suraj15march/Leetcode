@@ -110,6 +110,7 @@
 | [0205-isomorphic-strings](https://github.com/suraj15march/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj15march/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj15march/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/suraj15march/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/suraj15march/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/suraj15march/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/suraj15march/Leetcode/tree/master/0394-decode-string) |
@@ -425,6 +426,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj15march/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suraj15march/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/suraj15march/Leetcode/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/suraj15march/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/suraj15march/Leetcode/tree/master/0463-island-perimeter) |
@@ -731,6 +733,7 @@
 | [0090-subsets-ii](https://github.com/suraj15march/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/suraj15march/Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/suraj15march/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/suraj15march/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/suraj15march/Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj15march/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Sliding Window
@@ -824,6 +827,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj15march/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suraj15march/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/suraj15march/Leetcode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/suraj15march/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/suraj15march/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -870,6 +874,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suraj15march/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suraj15march/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suraj15march/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/suraj15march/Leetcode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/suraj15march/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/suraj15march/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
