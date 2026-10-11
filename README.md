@@ -331,6 +331,7 @@
 | [2140-solving-questions-with-brainpower](https://github.com/suraj15march/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/suraj15march/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/suraj15march/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj15march/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suraj15march/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1033,6 +1034,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/suraj15march/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suraj15march/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suraj15march/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Knapsack Problem
