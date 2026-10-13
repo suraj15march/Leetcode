@@ -343,6 +343,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suraj15march/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suraj15march/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suraj15march/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/suraj15march/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/suraj15march/Leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/suraj15march/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -591,6 +592,7 @@
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/suraj15march/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suraj15march/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suraj15march/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/suraj15march/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
 | ------- |
@@ -648,6 +650,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/suraj15march/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suraj15march/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/suraj15march/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/suraj15march/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/suraj15march/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
