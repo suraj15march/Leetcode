@@ -33,11 +33,11 @@ class Solution {
         List<Integer> list = reverseNode(head);
         ListNode temp = head;
         int n = list.size(), i = 0;
-       while (temp != null && i < list.size()) {
+       while (temp != null && i < n) {
             ListNode nextOriginal = temp.next;
             
             // If we still have values to weave in, update next
-            if (i < list.size()) {
+            if (i < n) {
                 ListNode middleNode = new ListNode(list.get(i));
                 temp.next = middleNode;
                 middleNode.next = nextOriginal;
