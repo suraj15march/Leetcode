@@ -141,6 +141,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suraj15march/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suraj15march/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suraj15march/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3484-design-spreadsheet](https://github.com/suraj15march/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/suraj15march/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/suraj15march/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/suraj15march/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -344,6 +345,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/suraj15march/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/suraj15march/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suraj15march/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3484-design-spreadsheet](https://github.com/suraj15march/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suraj15march/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suraj15march/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suraj15march/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -405,6 +407,7 @@
 | [0867-transpose-matrix](https://github.com/suraj15march/Leetcode/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/suraj15march/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
+| [3484-design-spreadsheet](https://github.com/suraj15march/Leetcode/tree/master/3484-design-spreadsheet) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -574,6 +577,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suraj15march/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/suraj15march/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suraj15march/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3484-design-spreadsheet](https://github.com/suraj15march/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suraj15march/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/suraj15march/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -805,6 +809,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj15march/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/suraj15march/Leetcode/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/suraj15march/Leetcode/tree/master/2043-simple-bank-system) |
+| [3484-design-spreadsheet](https://github.com/suraj15march/Leetcode/tree/master/3484-design-spreadsheet) |
 ## Randomized
 |  |
 | ------- |
