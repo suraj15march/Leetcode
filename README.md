@@ -145,6 +145,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/suraj15march/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/suraj15march/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/suraj15march/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/suraj15march/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
