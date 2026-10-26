@@ -348,6 +348,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/suraj15march/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/suraj15march/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suraj15march/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suraj15march/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suraj15march/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suraj15march/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suraj15march/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -389,6 +390,7 @@
 | [0841-keys-and-rooms](https://github.com/suraj15march/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/suraj15march/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suraj15march/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | [0909-snakes-and-ladders](https://github.com/suraj15march/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/suraj15march/Leetcode/tree/master/1036-rotting-oranges) |
 | [3484-design-spreadsheet](https://github.com/suraj15march/Leetcode/tree/master/3484-design-spreadsheet) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suraj15march/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -455,6 +458,7 @@
 | [0938-range-sum-of-bst](https://github.com/suraj15march/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/suraj15march/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suraj15march/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suraj15march/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
 | ------- |
@@ -1103,6 +1107,7 @@
 | [0399-evaluate-division](https://github.com/suraj15march/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/suraj15march/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/suraj15march/Leetcode/tree/master/0695-max-area-of-island) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suraj15march/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Common Subsequence
 |  |
 | ------- |
