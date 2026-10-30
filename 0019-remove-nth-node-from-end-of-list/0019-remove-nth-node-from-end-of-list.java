@@ -24,7 +24,7 @@ class Solution {
             dummy = dummy.next;
             n--;
         }
-dummy.next = dummy.next.next;
+        dummy.next = dummy.next.next;
         return head;
     }
 }
