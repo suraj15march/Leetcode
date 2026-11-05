@@ -6,6 +6,7 @@ class Solution {
             for(int num2: arr2){
                 if(Math.abs(num1-num2)<=d){
                     flag = false;
+                    break;
                 }
             }
             if(flag) count++;
