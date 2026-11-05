@@ -83,6 +83,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/suraj15march/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/suraj15march/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/suraj15march/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suraj15march/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/suraj15march/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suraj15march/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj15march/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -320,6 +321,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/suraj15march/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suraj15march/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suraj15march/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suraj15march/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/suraj15march/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -494,6 +496,7 @@
 | [0888-fair-candy-swap](https://github.com/suraj15march/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0981-time-based-key-value-store](https://github.com/suraj15march/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suraj15march/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suraj15march/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suraj15march/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String Matching
 |  |
@@ -666,6 +669,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/suraj15march/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/suraj15march/Leetcode/tree/master/1366-rank-teams-by-votes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suraj15march/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suraj15march/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/suraj15march/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
