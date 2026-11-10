@@ -355,6 +355,7 @@
 | [3484-design-spreadsheet](https://github.com/suraj15march/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suraj15march/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suraj15march/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/suraj15march/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suraj15march/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suraj15march/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suraj15march/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -747,6 +748,7 @@
 | [1143-longest-common-subsequence](https://github.com/suraj15march/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suraj15march/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2140-solving-questions-with-brainpower](https://github.com/suraj15march/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
+| [3693-climbing-stairs-ii](https://github.com/suraj15march/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
