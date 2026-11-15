@@ -32,6 +32,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suraj15march/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/suraj15march/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suraj15march/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj15march/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/suraj15march/Leetcode/tree/master/1642-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj15march/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suraj15march/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -329,6 +330,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suraj15march/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj15march/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suraj15march/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj15march/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj15march/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suraj15march/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -639,6 +641,7 @@
 | [1109-corporate-flight-bookings](https://github.com/suraj15march/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj15march/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj15march/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj15march/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/suraj15march/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/suraj15march/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj15march/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -752,6 +755,7 @@
 | [1035-uncrossed-lines](https://github.com/suraj15march/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/suraj15march/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suraj15march/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj15march/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/suraj15march/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [3693-climbing-stairs-ii](https://github.com/suraj15march/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
