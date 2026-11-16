@@ -15,7 +15,6 @@ class Solution {
         for(int i=0; i<n; i += k){
             int t = i+k<n? i+k:n;
             String subStr = s.substring(i, t);
-            System.out.println(subStr);
             sb.append(getDigitSum(subStr));
         }
 
