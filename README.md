@@ -1215,4 +1215,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suraj15march/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suraj15march/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
